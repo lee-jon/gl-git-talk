@@ -7,5 +7,5 @@
 
 ## Part 2: Traversing and joining Branches
 [X] Tree-ish ness
-[ ] Merging like boss
-[ ] Fearless Rebasing
+[X] Merging like boss
+[X] Fearless Rebasing
