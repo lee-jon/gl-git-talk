@@ -6,6 +6,6 @@
 [X] Why branches are easy in Git
 
 ## Part 2: Traversing and joining Branches
-[ ] Tree-ish ness
+[X] Tree-ish ness
 [ ] Merging like boss
 [ ] Fearless Rebasing
