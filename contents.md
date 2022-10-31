@@ -3,4 +3,4 @@
 ## Part 1: Understanding Git Data Model
 [X] Show Git is an Object Store
 [X] Graphs and how git is really a graph
-[ ] Why branches are easy in Git
+[X] Why branches are easy in Git
